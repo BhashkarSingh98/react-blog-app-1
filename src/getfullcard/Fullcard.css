@@ -146,7 +146,8 @@
     opacity: 1;
     margin: auto;
     overflow: hidden;
-    margin-top: -25px;
+    margin-top: -10px;
+    margin-bottom: 0px;
   }
   .fullcard-navigation-date {
     width: 100%;
