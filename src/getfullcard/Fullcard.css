@@ -44,8 +44,8 @@
   color: #404040;
   opacity: 1;
   margin: auto;
-  position: absolute;
-  top: 230px;
+  position: relative;
+  top: -460px;
 }
 .fullcard-content-box {
   width: 500px;
